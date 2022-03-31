@@ -1,4 +1,4 @@
-# SC1005 Mini Project
+# SC1005 Mini Project 
 
 Suicide Dataset:
 https://www.kaggle.com/datasets/nourajo/suicide-rates-worldwide-20002019
