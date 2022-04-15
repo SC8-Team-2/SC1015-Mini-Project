@@ -1,9 +1,14 @@
 # SC1005 Mini Project 
+## About this project
+Our project will do something
 
-Suicide Dataset:
-https://www.kaggle.com/datasets/nourajo/suicide-rates-worldwide-20002019
+We will be using the following lovely datasets:  
+| Dataset Name  | Source |
+| ------------- | ------------- |
+| Various U.S. Census Bureau Data | https://www.census.gov/quickfacts  |
+| U.S. 2019 Crime Data | https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/downloads/download-printable-files  |
+| U.S. 2020 Election Results | https://www.cookpolitical.com/2020-national-popular-vote-tracker  |
 
-Country Data Dataset:
-https://www.kaggle.com/datasets/sudalairajkumar/undata-country-profiles
 
-Identifying most significant factors of a country that contributes to suicide rate
+## Problem Definition
+no problemo
