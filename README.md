@@ -1,4 +1,8 @@
 # SC1005 Mini Project 
+![Header Photo](https://res.cloudinary.com/jiawoi/image/upload/v1650711175/cc_bg_kzilzs.jpg)
+Photo by [CardMapr](https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
+  
 ## 🎨 About this project
 Our project will try to predict if a credit card applicant is 'good' or 'bad'. We are using the lovely **Credit Card Approval Prediction** dataset from Kaggle https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
