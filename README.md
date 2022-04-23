@@ -4,11 +4,9 @@ Photo by [CardMapr](https://unsplash.com/@cardmapr?utm_source=unsplash&utm_mediu
   
   
 ## 🎨 About this project
-Our project will try to predict if a credit card applicant is 'good' or 'bad'. We are using the lovely **Credit Card Approval Prediction** dataset from Kaggle https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+Our project will try to predict if a credit card applicant will make his/her payments on time in the future by looking at an applicant's submitted information, which contains information such as age, no. of family members, income, no. of years working. We will then label the applicants as 'good' or 'bad'.  
 
-What defines 'good' or 'bad'? An applicant is 'good' when he/she has their credit card application approved by the bank, while getting rejected by the bank is considered as 'bad'. By looking at an applicant's records, which contains information such as age, no. of family members, income, no. of years working, we aim to predict the the likelihood of a bank issuing a particular applicant a credit card. 
-
-Additionally, we will also be predicting if a credit card applicant will continue to make his/her payments on time in the future. 
+We are using the lovely **Credit Card Approval Prediction** dataset from Kaggle https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
 ## 📔 Notebooks in this project
 
