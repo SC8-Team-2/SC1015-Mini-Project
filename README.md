@@ -8,7 +8,7 @@ Our project will try to predict if a credit card applicant is 'good' or 'bad'. W
 
 What defines 'good' or 'bad'? An applicant is 'good' when he/she has their credit card application approved by the bank, while getting rejected by the bank is considered as 'bad'. By looking at an applicant's records, which contains information such as age, no. of family members, income, no. of years working, we aim to predict the the likelihood of a bank issuing a particular applicant a credit card. 
 
-Additionally, we would also be predicting if a credit card applicant will continue to make his/her payments on time in the future. 
+Additionally, we will also be predicting if a credit card applicant will continue to make his/her payments on time in the future. 
 
 ## 📔 Notebooks in this project
 
