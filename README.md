@@ -1,5 +1,5 @@
 # SC1005 Mini Project 
-![Header Photo](https://res.cloudinary.com/jiawoi/image/upload/v1650711175/cc_bg_kzilzs.jpg)
+![Header Photo](https://res.cloudinary.com/jiawoi/image/upload/v1650712074/banner.jpg)\
 Photo by [CardMapr](https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
   
