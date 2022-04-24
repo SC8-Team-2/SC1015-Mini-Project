@@ -34,7 +34,7 @@ Banks can use the models that we tried to help decide whether or not to issue an
 - Darren Lee (EDA, RandomForestClassifier, GridSearchCV)
 
 ## 📃 References
-https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
-https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/
-https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
+https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/\
+https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/\
+https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/\
 https://www.analyticsvidhya.com/blog/2020/10/overcoming-class-imbalance-using-smote-techniques/
